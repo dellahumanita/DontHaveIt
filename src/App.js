@@ -2,11 +2,8 @@ import Header from './Components/Header'
 
 function App() {
   return (
-    <div>
+    <div className="bg-offwhite h-full w-full">
       <Header />
-      <span>
-        Hello world!
-      </span>
     </div>
   );
 }
